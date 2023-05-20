@@ -12,3 +12,6 @@ Building requires DKP enviornment variables to be set.
 3. run the command "make" in the root repository, ensure libogc is installed.
 4. To test this on your Wii, set the env variable "WIILOAD=tcp:yourip" where 'yourip' is the IP address of your Wii.
 5. Run "wiiload 'VibrateMii.dol'" while your Wii is in the Homebrew channel.
+
+# Supporting:
+If you wish to support this project, any help is greatly appreciated. Thanks to the Wii modding community, and homebrew developers who made things like libogc that makes the job a lot easier.
