@@ -5,6 +5,11 @@ This requires a modded wii with the homebrew channel installed.
 
 Building requires DKP enviornment variables to be set.
 
+# Installing
+1. Download the latest release as a zip file
+2. Extract the "VibrateMii" folder and place it in the 'apps' directory on your Wii's SD card.
+3. Run VibrateMii from the Homebrew Channel.
+
 # How to build:
 1. Follow this page to setup devkitPro on your machine: https://devkitpro.org/wiki/Getting_Started
     Arch Linux is recommended for setting up DKP pacman, it's as simple as adding a repo, and doing a quick update.
